@@ -277,10 +277,10 @@ HELP_TEXT = """
 
 ABOUT_TEXT = """
 <b>💕 Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
-<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/FileStreamDXBot'>3.0.1</a></b>\n
+<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/MoviesFlixers_DL'>3.0.1</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/PredatorHackerzZ/TG-File2Link'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a href='https://GitHub.com/PredatorHackerzZ'>Fᴏʟʟᴏᴡ</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/TheTeleRoid'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
+<b>🔸GitHub : <a href='https://GitHub.com/PredatorHackerzZ'>Check It</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/TheTeleRoid'>ツAʙʜɪsʜᴇᴋ Kᴜᴍᴀʀ</a></b>\n
 <b>🔸Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ : <a href='https://telegram.me/TeleRoidGroup'>[@TeleRoidGroup]</a></b>\n
 <b>🔸Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href='https://telegram.me/TeleRoid14'>[@TeleRoid14]</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/MoviesFlixers_DL'>[ 11-ᴊᴜʟʏ-21 ] 04:35 PM</a></b>"""
